@@ -26,7 +26,6 @@ public class Assignment1 {
         String word1 = scanner.nextLine();
 
         String word2 = word1.substring(1, 4);
-
         System.out.println("Your new string is: " + word2);
     
         System.out.println("Enter a temperature in fahrenheit: ");
